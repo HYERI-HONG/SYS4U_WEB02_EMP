@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\notebiz7750\sys4u_06_EMP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2725763587.index
+696475052.index
+2934031370.index
+1471120183.index
+2076013381.index
+4168237201.index

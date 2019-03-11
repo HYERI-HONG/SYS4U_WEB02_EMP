@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 15 resources" deleteContents="false" description="Delete 15 resources" element1="/command-pattern-web-application" element10="/logback-core-1.2.3-sources" element11="/mchange-commons-java-0.2.15" element12="/ojdbc6" element13="/slf4j-api-1.7.25" element14="/slf4j-log4j12-1.7.25" element15="/tomcat-dbcp-9.0.16" element2="/commons-codec-1.11" element3="/commons-httpclient-3.1" element4="/commons-logging-1.2" element5="/logback-access-1.2.3" element6="/logback-access-1.2.3-sources" element7="/logback-classic-1.2.3" element8="/logback-classic-1.2.3-sources" element9="/logback-core-1.2.3" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="15" stamp="1552277898721"/>
+</session>
